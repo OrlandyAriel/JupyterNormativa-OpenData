@@ -1,3 +1,4 @@
-gpxpy.geo
+gpxpy
+jupyter
 pandas
 folium
