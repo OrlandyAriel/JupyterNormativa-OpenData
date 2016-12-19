@@ -4,4 +4,4 @@
 ### Orlandy Ariel Sánchez A.
 Para ver la aplicación en ejecución en un Jupyter Notebook pulsar en [aquí](http://mybinder.org/repo/alu0100773408/jupyternormativa-opendata).
 
-Si prefiere ver solo el código sin ejecución en un Jupyper Notebook pulsar [aquí](https://github.com/alu0100773408/JupyterNormativa-OpenData/blob/master/NyR_Practica.ipynb)
+Si prefiere ver solo el código sin ejecución en un Jupyper Notebook pulsar [aquí](https://github.com/alu0100773408/JupyterNormativa-OpenData/blob/master/index.ipynb)
